@@ -1,1 +1,1 @@
-;print("A test.");print("Hello cruel world")
+;print(__name__);print("Hello cruel world")
